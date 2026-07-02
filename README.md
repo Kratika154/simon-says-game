@@ -61,20 +61,6 @@ While building this project, I strengthened my understanding of:
 - Conditional Statements
 - Event Handling
 
----
-
-## 📂 Project Structure
-
-```text
-Simon-Says-Game/
-│
-├── index.html
-├── style.css
-├── app.js
-├── screenshot.png
-└── README.md
-```
-
 ## 🔮 Future Improvements
 
 Some features I plan to add in the future:
@@ -98,5 +84,4 @@ Aspiring Software Engineer passionate about Web Development, Data Structures & A
 ---
 
 ## ⭐ Support
-
 If you found this project helpful or interesting, consider giving it a ⭐ on GitHub. Your support is appreciated!
